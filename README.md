@@ -23,6 +23,6 @@ Suitability
 
 Completely uncertain. I'm really only doing this on Github because "cloud availibity" and I'm really only doing this 
 project for the experience of programming it, not using it. This is my own pet project. But hey, if you're searching along
-for something like this, and I've just made your day, feel free to shoot me an email at: <king DOT 2047 AT osu DOT edu>
+for something like this, and I've just made your day, feel free to shoot me an email at(view raw): <king DOT 2047 AT osu DOT edu>
 
 --John King III
